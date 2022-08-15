@@ -1,0 +1,80 @@
+.div{
+    margin-top: 35px;
+    
+}
+
+
+.letras{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    gap: 520px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.anta{
+    display: flex;
+    justify-content: space-around;
+}
+.area{
+    margin-top: 10px;
+
+    width: 736px;
+    height: 244px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #333333;
+    border-radius: 8px;
+}
+
+.logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.letras span{
+    background-color: #333333;
+    border-radius: 999px;
+    height: 25px;
+    width: 19px;
+}
+
+.span1{
+    font-size: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 140%;
+    color: #808080;
+}
+
+.span2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    color: #808080;
+}
+
+
+.blue{
+   color:  #4EA8DE;
+}
+
+.purple{
+color: #8284FA
+;
+}
+
+.letras span{
+    color: white;
+}

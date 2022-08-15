@@ -1,0 +1,114 @@
+.div{
+    margin-top: 35px;
+    
+}
+
+.blue{
+    color:  #4EA8DE;
+ }
+ 
+ .purple{
+ color: #8284FA
+ ;
+ }
+ 
+ .letras span{
+     color: white;
+ }
+
+
+.letras{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 15px;
+    gap: 520px;
+    font-family: Inter;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+
+.taskarea{
+    margin-top: 15px;   
+    display: flex;
+    justify-content: center;
+    color: #F2F2F2;
+    font-family: Inter;
+}
+
+.card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 736px;
+    height: 72px;
+    background-color: var(--gray-500);
+    border-radius: 16px;
+    border: 1px solid #333333;
+    padding-left: 20px;
+    gap:20px
+}
+
+/* input{
+    display: flex;
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    border: 2px solid #4EA8DE;
+    background: var(--gray-500);
+    
+} */
+
+.checkbox{
+    display: flex;
+    width: 24px;
+    height: 24px;
+    border-radius: 100%;
+    border: 2px solid #4EA8DE;
+    background: var(--gray-500);
+    cursor: pointer;
+}
+
+
+.card > span{
+    display:flex;
+    width: 100%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 140%;
+    overflow-wrap: break-word; 
+    
+}
+
+.intertext{
+    gap: 12px;
+    display: flex;
+}
+.logotrash{
+    margin: 10px;
+}
+
+.buttontrash{
+    cursor: pointer;
+    background: none;
+    size: 26px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
